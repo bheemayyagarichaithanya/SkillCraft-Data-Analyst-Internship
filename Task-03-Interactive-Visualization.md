@@ -1,39 +1,47 @@
-# Task 03 – Interactive Visualization 📈
+# Task 03 – Interactive Visualization using Power BI  📈
 
-## Objective
 
-Build an interactive dashboard to analyze employee attrition.
+## 🎯 Objective
+To analyze employee attrition patterns and identify
+key factors that cause employees to leave the company
+using interactive Power BI visualizations.
 
-## Dataset
+## 📌 Task
+SkillCraft Technology Internship - Task 03
+Interactive Visualization
 
-HR Employee Attrition Dataset
+## 📊 Dashboard Features
+- Total Employees KPI Card
+- Total Attrition Count KPI Card
+- Average Monthly Income KPI Card
+- Attrition by Department (Bar Chart)
+- Attrition by Age Group (Column Chart)
+- Attrition Yes/No breakdown (Pie Chart)
+- Interactive Slicers (Department, AgeGroup, JobRole)
 
-## Activities Performed
+## ❓ Questions Answered
+- Why are employees leaving?
+- Which department has highest attrition?
+- Which age group leaves the most?
+- How does salary affect attrition?
 
-* Imported and prepared HR data
-* Created interactive visualizations
-* Added filters for:
+## 🛠️ Tools Used
+- Power BI Desktop
+- Microsoft Excel
 
-  * Region
-  * Age Group
-  * Department
-* Investigated factors influencing employee attrition
+## 📁 Dataset
+IBM HR Analytics Employee Attrition Dataset
+Source: Kaggle
 
-## Tools Used
+## 🔍 Key Insights
+- Sales department has highest attrition rate
+- Younger employees (18-25) leave more often
+- Lower income employees tend to leave more
+- 16% overall attrition rate
 
-* Power BI / Tableau
+## 👤 Author
+Kongari Udayasree
+SkillCraft Technology Internship 2025
 
-## Key Insights
 
-* Identified departments with higher attrition rates
-* Analyzed age-group-wise employee turnover
-* Explored regional trends
 
-## Deliverables
-
-* Interactive Dashboard
-* Attrition Analysis Report
-
-## Video Demonstration
-
-https://youtu.be/mevbrXEHAdE?si=vGwcR39pSRsHkhR9
