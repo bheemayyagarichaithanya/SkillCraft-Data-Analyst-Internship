@@ -39,9 +39,4 @@ Source: Kaggle
 - Lower income employees tend to leave more
 - 16% overall attrition rate
 
-## 👤 Author
-Kongari Udayasree
-SkillCraft Technology Internship 2025
-
-
 
