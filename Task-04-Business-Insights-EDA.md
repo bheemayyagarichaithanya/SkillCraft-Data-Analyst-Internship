@@ -32,4 +32,5 @@ Perform Exploratory Data Analysis (EDA) on a marketing campaign dataset and gene
 
 ## Video Demonstration
 
-https://youtu.be/JsUGcORPMYI?si=-Tl_GfbP46VJ8uRY
+https://youtu.be/knO5sqW0V4E?si=a1VYP7id0u360Ffn
+
