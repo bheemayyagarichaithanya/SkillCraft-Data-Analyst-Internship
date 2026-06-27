@@ -38,5 +38,7 @@ Source: Kaggle
 - Younger employees (18-25) leave more often
 - Lower income employees tend to leave more
 - 16% overall attrition rate
+# Video Demonstration
+https://youtu.be/knO5sqW0V4E?si=a1VYP7id0u360Ffn
 
 
